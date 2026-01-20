@@ -52,3 +52,11 @@
 - Highlights SNNs (Self-normalizing Neural Networks)
 - SNNs use a special activation function called SELU (Scaled Exponential Linear Unit) that makes neuron activations automatically converge to zero mean and unit variance, without needing Batch Normalization.
 
+---
+
+### Paper 5 🌟🌟🌟🌟🌟
+**Title:** Attention is all you need (Transformer Network Architecture)       
+**Authors:** ```Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin```           
+**Link:** https://arxiv.org/abs/1706.03762   
+
+---
