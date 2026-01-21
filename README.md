@@ -1,13 +1,13 @@
 # 📄 Paper Reading
 
 
-### Paper 0
+### Paper 0 🌟🌟
 **Title:** Adam: A Method for Stochastic Optimization     
 **Authors:** ```Diederik P. Kingma, Jimmy Ba```               
 **Year:** 2014      
 **Link:** https://arxiv.org/abs/1412.6980         
 
-### Paper 1
+### Paper 1 🌟
 **Title:** Practical Recommendations for Gradient-Based Training of Deep Architectures      
 **Authors:** ```Yoshua Bengio & Xavier Glorot```               
 **Year:** 2012  
@@ -22,7 +22,7 @@
 
 ---
 
-### Paper 2
+### Paper 2 
 **Title:** Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification         
 **Authors:** ```Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun```      
 **Link:** https://arxiv.org/abs/1502.01852  
@@ -32,7 +32,7 @@
 
 ---
 
-### Paper 3
+### Paper 3 🌟🌟🌟
 **Title:** Empirical Evaluation of Rectified Activations in Convolutional Network    
 **Authors:** ```Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li```        
 **Link:** https://arxiv.org/abs/1505.00853  
@@ -54,7 +54,7 @@
 
 ---
 
-### Paper 5 🌟🌟🌟🌟🌟
+### Paper 5 🌟🌟🌟🌟🌟🌟🌟🌟🌟
 **Title:** Attention is all you need (Transformer Network Architecture)       
 **Authors:** ```Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin```           
 **Link:** https://arxiv.org/abs/1706.03762   
