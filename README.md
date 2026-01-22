@@ -1,4 +1,4 @@
-# 📄 Paper Reading
+# 📄 ML/DL Paper Reading
 
 This repository tracks papers I’ve read on Neural Networks, Deep Learning, and modern architectures.
 
@@ -13,7 +13,7 @@ This repository tracks papers I’ve read on Neural Networks, Deep Learning, and
 
 ### 2️⃣ Optimization
 - [Adam: A Method for Stochastic Optimization](Optimization/Adam.md) 🌟
-- [Practical Recommendations for Deep Network Training](Optimization/Training_Recommendations.md) 🌟
+- [Practical Recommendations for Deep Network Training](Optimization/Training_Recommendations.md) 🌟 --- Xavier (Glorot) Initialization
 
 ### 3️⃣ Architectures
 - [Attention Is All You Need (Transformer)](Architectures/Transformers.md) 🌟🌟🌟🌟🌟
