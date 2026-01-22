@@ -1,4 +1,4 @@
-# Empirical Evaluation of Rectified Activations in Convolutional Network
+## Empirical Evaluation of Rectified Activations in Convolutional Network
 
 Authors: Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li
 
