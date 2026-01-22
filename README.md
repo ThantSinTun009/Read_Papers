@@ -4,8 +4,6 @@ This repository tracks papers I’ve read on Neural Networks, Deep Learning, and
 
 ---
 
-## Clusters
-
 ### 1️⃣ Activation & Initialization
 - [He (Kaiming) Initialization](Activation_Initialization/He_Initialization.md)
 - [ReLU Variants](Activation_Initialization/ReLU_and_Variants.md) 🌟🌟
