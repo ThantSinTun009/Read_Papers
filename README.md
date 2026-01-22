@@ -4,14 +4,20 @@ This repository tracks papers I’ve read on Neural Networks, Deep Learning, and
 
 ---
 
-### 1️⃣ Activation & Initialization
+### Activation & Initialization
 - [He (Kaiming) Initialization](Activation_Initialization/He_Initialization.md)
 - [ReLU Variants](Activation_Initialization/ReLU_and_Variants.md) 🌟🌟
 - [Self-Normalizing Neural Networks (SELU)](Activation_Initialization/Self_Normalizing_NNs.md)
 
-### 2️⃣ Optimization
+---
+
+### Optimization
 - [Adam: A Method for Stochastic Optimization](Optimization/Adam.md) 🌟
 - [Practical Recommendations for Deep Network Training](Optimization/Training_Recommendations.md) 🌟 --- Xavier (Glorot) Initialization
 
-### 3️⃣ Architectures
+---
+
+### Architectures
 - [Attention Is All You Need (Transformer)](Architectures/Transformers.md) 🌟🌟🌟🌟🌟
+
+---
