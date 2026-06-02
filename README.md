@@ -8,7 +8,7 @@ This repository tracks papers I’ve read | am currently reading on Neural Netwo
 - [He (Kaiming) Initialization](Activation_Initialization/He_Initialization.md)
 - [ReLU Variants](Activation_Initialization/ReLU_and_Variants.md) 🌟🌟
 - [Self-Normalizing Neural Networks (SELU)](Activation_Initialization/Self_Normalizing_NNs.md)
-- [Universal Sentence Encoder]()
+- [Universal Sentence Encoder](https://github.com/ThantSinTun009/Read_Papers/blob/main/Architectures/Universal%20Sentence%20Encoder%20for%20English%20-%20Paper.pdf)
 ---
 
 ### Optimization
