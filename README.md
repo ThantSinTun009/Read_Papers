@@ -4,6 +4,16 @@ This repository tracks papers I’ve read | am currently reading on Neural Netwo
 
 ---
 
+Updated: 31/7/2026
+
+### Word2Vec
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
+### FastText
+- [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
+
+---
+
 ### Activation & Initialization
 - [He (Kaiming) Initialization](Activation_Initialization/He_Initialization.md)
 - [ReLU Variants](Activation_Initialization/ReLU_and_Variants.md) 🌟🌟
@@ -21,3 +31,4 @@ This repository tracks papers I’ve read | am currently reading on Neural Netwo
 - [Attention Is All You Need (Transformer)](Architectures/Transformers.md) 🌟🌟🌟🌟🌟
 
 ---
+
