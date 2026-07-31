@@ -1,6 +1,6 @@
 # 📄 My ML/DL Paper Reading Journey 
 
-This repository tracks papers I’ve read | am currently reading on Neural Networks, Deep Learning, and modern architectures.
+This repository tracks papers I’ve read | am currently reading on Deep Learning Neural Networks, and NLP.
 
 ---
 
