@@ -8,7 +8,7 @@ Updated: 23/8/2026
 
 ### Myanmar Speech Classification
 
-- [Myanmar Speech Classification Using TransferLearning For ImageClassification](https://github.com/ye-kyawthu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)
+- [Myanmar Speech Classification Using TransferLearning For ImageClassification](https://github.com/yekyawthu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)
 
 ### HMM-based Burmese TTS
 
