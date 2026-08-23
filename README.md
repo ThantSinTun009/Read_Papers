@@ -4,7 +4,7 @@ This repository tracks papers I’ve read | am currently reading on Deep Learnin
 
 ---
 
-Updated: 31/7/2026
+Updated: 23/8/2026
 
 ### Myanmar Speech Classification
 
@@ -19,6 +19,8 @@ Updated: 31/7/2026
 
 
 ---
+
+Updated: 31/7/2026
 
 ### Word2Vec
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
