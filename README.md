@@ -6,6 +6,20 @@ This repository tracks papers I’ve read | am currently reading on Deep Learnin
 
 Updated: 31/7/2026
 
+### Myanmar Speech Classification
+
+- [MyanmarSpeechClassificationUsingTransferLearningForImageClassification](https://github.com/ye-kyawthu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)
+
+### HMM-based Burmese TTS
+
+### G2P
+
+### Burmese ASR (Automatic Speech Recognition)
+
+
+
+---
+
 ### Word2Vec
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 
