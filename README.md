@@ -8,15 +8,19 @@ Updated: 23/8/2026
 
 ### Myanmar Speech Classification
 
-- [Myanmar Speech Classification Using TransferLearning For ImageClassification](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)
+- [Myanmar Speech Classification Using Transfer Learning For Image Classification](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)
 
-### HMM-based Burmese TTS
+### HMM-based TTS
+
+- [HMM-Based Myanmar Text To Speech System](https://github.com/ThantSinTun009/Read_Papers/blob/main/ASR-TTS/thu15_interspeech.pdf)
 
 ### G2P
 
+- [Syllable Pronunciation Features for Myanmar Grapheme to Phonem Conversion](https://github.com/ThantSinTun009/Read_Papers/blob/main/ASR-TTS/g2p-revised-ICCA2015.pdf)
+
 ### Burmese ASR (Automatic Speech Recognition)
 
-
+- [A Myanmar Large Vocabulary Continuous Speech Recognition System](https://github.com/ThantSinTun009/Read_Papers/blob/main/ASR-TTS/APCIPA2015-A_Myanmar_Large_Vocabulary_Continuous_Speech.pdf)
 
 ---
 
