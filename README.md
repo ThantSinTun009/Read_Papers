@@ -8,7 +8,7 @@ Updated: 29/8/2026
 
 ### Kaldi (ASR)
 
-- http
+- [Kaldi Speech Recognition Toolkit](https://github.com/ThantSinTun009/Read_Papers/blob/main/ASR-TTS/The_Kaldi_speech_recognition_toolkit.pdf)
 
 ---
 
