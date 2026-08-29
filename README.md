@@ -1,10 +1,16 @@
-# 📄 My ML/DL Paper Reading Journey 
+# 📄 My Research Paper Reading Journey (ML/DL/NLP)
 
 This repository tracks papers I’ve read | am currently reading on Deep Learning Neural Networks, and NLP.
 
 ---
 
-Updated: 23/8/2026
+Updated: 29/8/2026
+
+### Kaldi (ASR)
+
+- http
+
+---
 
 ### Myanmar Speech Classification
 
